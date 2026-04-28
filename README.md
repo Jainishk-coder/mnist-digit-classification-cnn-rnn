@@ -6,7 +6,7 @@ This project implements a hybrid deep learning model combining Convolutional Neu
 - Uses CNN for feature extraction from images
 - Uses RNN (LSTM/GRU) for sequence-based learning
 - Trained and evaluated on MNIST dataset
-- Achieves high accuracy in digit classification
+- Achieves 95%+ accuracy in digit classification
 
 ## Tech Stack
 - Python
